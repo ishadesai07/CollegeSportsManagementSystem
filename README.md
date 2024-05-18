@@ -19,3 +19,16 @@ You need to install Visual Studio (not Vs code) to make sure this project runs p
 [MySQL Link](https://downloads.mysql.com/docs/visual-studio-en.pdf)
 [Readme file Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## Contribute
+I am facing an unrecognizible error in my scoreboard because of which it is not working it will be great if you could help me solve that as i am new to asp.net, c# and mySQl all the 3 of them: [HERE](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/viewscoreboard.aspx.cs) and also [Here](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/viewscoreboard.aspx).
+
+## Codes
+| pages              | links                                                                           |
+| :---:              | :---:                                                                           |
+|Index               |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/index.aspx)|
+|Login               |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/login.aspx)|
+|Payment             |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/payment.aspx)| 
+|Registration        |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/registration_form1.aspx)|
+|Remove players      |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/removeplayers.aspx)|
+|Scoreboard          |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/viewscoreboard.aspx)|
+|Sports Team         |[Link](https://github.com/ishadesai07/CollegeSportsManagementSystem/blob/main/viewsportteam.aspx)|
