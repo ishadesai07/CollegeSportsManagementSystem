@@ -1,5 +1,5 @@
 # College Sports Management System
-A website in which we can update the scores directly and it also includes admin side and client side.
+A website to update scores, make teams and make it easier for the people to view scores directly through their screens.
 
 ## Motivation
 We made this website so that we dont have to write all the scores manually, which is a very tireing job to do!
